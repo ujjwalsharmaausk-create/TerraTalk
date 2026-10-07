@@ -1,0 +1,17 @@
+{
+  "region": "Maharashtra",
+  "district": "Latur",
+  "analysis_type": "crop_stress",
+  "source": "Sentinel-2 NDVI, precomputed demo cache",
+  "date_label": "2026 crop-stress demo",
+  "metrics": {
+    "cropland_area_km2": 310.0,
+    "previous_ndvi": 0.72,
+    "current_ndvi": 0.51,
+    "ndvi_drop": 0.21,
+    "stress": "severe",
+    "confidence": 0.86
+  },
+  "method": "NDVI change between two periods on cropland only.",
+  "map": "maps/crop_maharashtra.png"
+}

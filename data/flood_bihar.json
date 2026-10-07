@@ -1,0 +1,14 @@
+{
+  "region": "Bihar",
+  "district": "Darbhanga",
+  "analysis_type": "flood",
+  "source": "Sentinel-1 radar, precomputed demo cache",
+  "date_label": "2026 monsoon demo",
+  "metrics": {
+    "flooded_area_km2": 94.7,
+    "affected_area_km2": 94.7,
+    "confidence": 0.88
+  },
+  "method": "Before/during Sentinel-1 backscatter change; permanent water and steep slopes excluded in the upstream analysis.",
+  "map": "maps/flood_bihar.png"
+}
